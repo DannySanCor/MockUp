@@ -1,0 +1,10 @@
+.inputs{
+    align-content: center;
+    text-align: center;
+    width: 30%;
+}
+.automargin
+{
+    margin-left: auto;
+    margin-right: auto;
+}
